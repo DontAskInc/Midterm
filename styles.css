@@ -1,0 +1,25 @@
+body{
+  font-family: Arial, sans-serif
+}
+header{
+  text-align:center;
+  padding:20px;
+}
+header img{
+  height:90px;
+}
+nav{
+  width:20%;
+  padding:20px;
+  background:#e478ff;
+}
+footer{
+  text-align:center;
+  padding:15px;
+  background:#e478ff;
+}
+floatimg{
+  float:right;
+  margin:10px;
+  width:200px;
+}
